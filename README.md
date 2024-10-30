@@ -46,7 +46,7 @@ The dashboard includes filters for:
 5. **Variability in CAFV Eligibility**
    - Not all EVs qualify for Clean Alternative Fuel Vehicle benefits, with approximately 46% marked as "not eligible." This insight is essential for understanding regulatory impacts on consumer incentives and adoption trends.
    
-![Dashboard Image](dashboard.png)
+<img src="Dashboard.png" alt="Alt text" width="800" height="450">
 
 ## Conclusion
 This Power BI dashboard offers a powerful tool for understanding the electric vehicle market across critical metrics. By leveraging these insights, stakeholders can make informed decisions on infrastructure development, marketing strategies, and regulatory alignment to support continued EV growth. The dashboard's interactive features enable a flexible, user-focused experience, empowering users to explore data based on specific interests and needs.
