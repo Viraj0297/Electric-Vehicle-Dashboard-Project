@@ -35,7 +35,7 @@ The dashboard includes filters for:
    - The dashboard reveals that BEVs make up a significant portion (78%) of the total EVs, indicating strong market preference for fully electric vehicles over hybrid options.
 
 2. **Growth in EV Adoption Over Recent Years**
-   - The trend in vehicle model years shows a rapid increase in EV adoption, especially from 2017 onwards. This aligns with growing public interest, technological advancements, and supportive policy measures for EVs.
+   - The trend in vehicle model years indicates a sharp rise in EV adoption, particularly from 2017 onward. This surge corresponds with increased public interest, technological progress, and supportive policies for electric vehicles.
 
 3. **Tesla's Market Leadership**
    - Tesla emerges as the leading manufacturer, with the highest number of vehicles in the dataset. Model Y and Model 3 are particularly popular, as shown in the treemap, solidifying Tesla's strong presence in the EV market.
